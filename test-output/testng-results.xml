@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="14" total="15" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60475" started-at="2020-09-11T11:28:07Z" finished-at="2020-09-11T11:29:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60475" started-at="2020-09-11T11:28:07Z" finished-at="2020-09-11T11:29:08Z">
+      <class name="com.ijmeet.functionaltests.HomePageTestCases">
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:com.ijmeet.functionaltests.HomePageTestCases@7a52f2a2]" name="openingBrowser" is-config="true" duration-ms="54290" started-at="2020-09-11T11:28:07Z" finished-at="2020-09-11T11:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="verifyIsLogoVisibilityTest()[pri:0, instance:com.ijmeet.functionaltests.HomePageTestCases@7a52f2a2]" name="verifyIsLogoVisibilityTest" duration-ms="5367" started-at="2020-09-11T11:29:02Z" finished-at="2020-09-11T11:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIsLogoVisibilityTest -->
+        <test-method status="PASS" signature="closingBrowser()[pri:0, instance:com.ijmeet.functionaltests.HomePageTestCases@7a52f2a2]" name="closingBrowser" is-config="true" duration-ms="757" started-at="2020-09-11T11:29:07Z" finished-at="2020-09-11T11:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- com.ijmeet.functionaltests.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
